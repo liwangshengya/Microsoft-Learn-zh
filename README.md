@@ -16,3 +16,13 @@
 - 模块三：[使用TensorFlow进行自然语言处理](./TensorFlow/nlp/1-introduction.md)
 - 模块四：[使用TensorFlow进行音频分类](./TensorFlow/audio/1-introduction.md)
 - 模块五：[超越Keras--使用TensorFlow进行自定义](./TensorFlow/intro-tf/1-introduction.md)
+
+## 涉及数据集
+
+### [Cats vs. Dogs Dataset](https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_5340.zip) 
+Cats vs. Dogs（猫狗大战）。这个数据集是[Kaggle](https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset)大数据竞赛某一年的一道赛题，利用给定的数据集，用算法实现猫和狗的识别。 其中包含了训练集和测试集，训练集中猫和狗的图片数量都是12500张且按顺序排序，测试集中猫和狗混合乱序图片一共12500张。
+
+
+
+
+
